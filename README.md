@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @zheyizhifeng
-- 👀 I’m interested in investment
-- 🌱 I’m currently learning finance
+- 👀 I’m interested in Programing
+- 🌱 I’m currently learning Rust
 - 💞️ I’m looking to collaborate on machine learning
-- 📫 How to reach me ...
+- 📫 contact me by emailing zheyizhifeng@126.com
 
 <!---
 zheyizhifeng/zheyizhifeng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
