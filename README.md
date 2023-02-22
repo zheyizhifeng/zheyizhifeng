@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @zheyizhifeng
-- 👀 I’m interested in Programing
-- 🌱 I’m currently learning Rust
-- 💞️ I’m looking to collaborate on machine learning
+- 👀 I’m interested in Programing && Music
+- 🌱 I’m currently learning Rust && Piano
 - 📫 contact me by emailing zheyizhifeng@126.com
 
 <!---
